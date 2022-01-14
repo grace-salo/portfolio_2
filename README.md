@@ -1,4 +1,4 @@
-Welcome to Grace Salo's portfolio! Access my Github page [here](grace-salo.github.io/portfolio).
+Welcome to Grace Salo's portfolio! Access my Github page [here](https://grace-salo.github.io/portfolio_2).
 <br></br>
 
 Github page base template courtesy of Solid State by HTML5 UP <br>
